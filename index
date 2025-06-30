@@ -1,0 +1,66 @@
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="background-color:#f2f2f2;">
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong style="color: black;">Dag</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong style="color: black;">Joost</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong style="color: black;">Sabrina</strong></th>
+      <th style="border: 1px solid #ddd; padding: 8px; text-align: left;"><strong style="color: black;">Johannes</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Maandag</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep, Boodschappen halen</strong></td> <!-- Boodschappen halen toegevoegd -->
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken, Wasmachine & Droger</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Dinsdag</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Woensdag</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken, Wasmachine & Droger</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Donderdag</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <strong style="color: #FFD700; text-shadow: 0 0 5px #FFD700, 0 0 10px #FFD700, 0 0 15px #FFD700;">Vrijdag</strong>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken, Wasmachine & Droger</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen, Bier</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <strong style="color: #39FF14; text-shadow: 0 0 5px #39FF14, 0 0 10px #39FF14, 0 0 15px #39FF14;">Zaterdag</strong>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen, Bier</strong></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px;">
+        <strong style="color: #00BFFF; text-shadow: 0 0 5px #00BFFF, 0 0 10px #00BFFF, 0 0 15px #00BFFF;">Zondag</strong>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vaatwasser, Hondenpoep</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Koken, Wasmachine & Droger</strong></td>
+      <td style="border: 1px solid #ddd; padding: 8px;"><strong>Vegen & Dweilen, Bier</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 style="text-align: center;">Foto van de Woonwagen</h2>
+
+<p style="text-align: center;">
+    <img src="images/wagen.jpg" alt="Foto van de woonwagen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+</p>
